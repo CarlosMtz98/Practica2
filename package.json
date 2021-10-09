@@ -18,5 +18,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.13"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosMtz98/Practica2.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/CarlosMtz98/Practica2/issues"
+  },
+  "homepage": "https://github.com/CarlosMtz98/Practica2#readme"
 }
